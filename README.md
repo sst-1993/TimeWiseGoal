@@ -4,8 +4,6 @@
 
 > This repository includes multiple clients and server-side configurations. Feature coverage may vary by client. A complete setup requires your own Supabase project and any third-party services you use.
 
-[简体中文](README.md) | English
-
 ## Features
 
 - **Goals and tasks**: Break goals into goal trees, create and track tasks, monitor progress, and set reminders.
